@@ -4,7 +4,7 @@
 
 JobPulse AI is a comprehensive tool designed to streamline your job search process. It leverages local NLP models to find the best-fitting jobs based on your resume and provides a powerful dashboard to manage your applications.
 
-![JobPulse UI](images/dashboard_preview.png)
+![JobPulse UI]
 
 ## ✨ Key Features
 
