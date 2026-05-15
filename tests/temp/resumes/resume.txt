@@ -1,0 +1,37 @@
+Name: ABC
+
+Data Scientist
+A purpose-driven Data Scientist with deep analytical and quantitative expertise and MSc. (Hons.) in Economics. Seeking to leverage superior strategic and data mining skills to major company challenges at [Company Name]. Coming with strong programming skills and ability to build complex predictive models and machine-learning algorithms.
+
+SKILLS
+R | PYTHON | JAVA | SQL | NO SQL | AZURE ANALYTICS | POWER BI | TABLEAU |
+
+WORK EXPERIENCE
+PAYPAL
+
+DATA SCIENTIST
+
+Created and implementing data models that contributed to achieving 25% higher returns compared to previous years
+Worked closely with business partners and stakeholders to determine how to design analysis and measurement approaches to improve their ability to understand and address emerging business issues
+Implemented advanced and innovative analytical techniques, algorithms, and tools to make data actionable and relevant to stakeholders through exploratory analysis of internal and external data sources
+Identified gaps in the team’s existing reporting and tools suite and managing portfolio monitoring, dashboards and reporting
+MERCEDES BENZ RESEARCH AND DEVELOPMENT
+
+DATA SCIENTIST
+
+Applied data mining to shipping consolidation problem which resulted in $2.5 million savings over 2015 for single-day shipping consolidation
+Identified valuable data sources and automated collection processes
+Built efficient predictive models and machine-learning algorithms
+Proposed out-of-the-box solutions and strategies to business challenges
+EDUCATION
+Institute of Technology and Science
+
+MSC (HONS.) ECONOMICS
+
+B.E. (HONS.)., COMPUTER SCIENCE  
+
+CERTIFICATIONS
+365 DATA SCIENCE PROGRAM  
+
+LANGUAGES
+ENGLISH
