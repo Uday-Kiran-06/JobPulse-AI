@@ -4,7 +4,7 @@
 
 JobPulse AI is a comprehensive tool designed to streamline your job search process. It leverages local NLP models to find the best-fitting jobs based on your resume and provides a powerful dashboard to manage your applications.
 
-![JobPulse UI](images/dashboard_preview.png) *(Placeholder for dashboard image)*
+![JobPulse UI](images/dashboard_preview.png)
 
 ## ✨ Key Features
 
@@ -101,13 +101,8 @@ make run
 - `tests/`: Automated test suite for core logic.
 - `all_jobs.db`: Local SQLite database storing job listings and resumes.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Built with ❤️ for job hunters everywhere.*
